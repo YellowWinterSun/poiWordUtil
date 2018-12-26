@@ -1,6 +1,9 @@
 # poiWordUtil
 基于Apache POI封装后的Word文档打印工具类
 
+最近更新：
+(1) 2018/12/26 : 更新 图片替换功能。  Now you can use this util to replace picture.
+
 工具：IDEA
 框架：Java + Maven 简单的Java项目
 
