@@ -1,6 +1,10 @@
 # poiWordUtil
 基于Apache POI封装后的Word文档打印工具类
 
+* DEMO中的docx使用的是WPS编辑的，因此如果用office打开再保存，可能会导致占位符无法正常识别，也就无法进行word打印功能。
+请在编辑docx的时，尽量统一使用WPS或者OFFICE，以保证模板的正常打印。
+* In this demo, the .docx use by WPS. So if you use office edit demo word file, maybe it will be fail to export. So I suggest the user, when you edit word template, u choose only one software to edit one word template.(WPS or OFFICE is ok)
+
 最近更新：
 (1) 2018/12/26 : 更新 图片替换功能。  Now you can use this util to replace picture.
 
